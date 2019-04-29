@@ -47,7 +47,7 @@ Configure Control Wallet
     Note that `[username]` and `[password]` should be replaced
     accordingly with secure credentials ([The Simplest Security: A Guide
     To Better Password
-    Practices](https://www.symantec.com/connect/articles/simplest-security-guide-better-password-practices)).
+    Practices](https://www.symantec.com/connect/articles/simplest-security-guide-better-password-practices))
 
 Configure Remote Wallet
 -----------------------
@@ -122,4 +122,7 @@ Start Masternode
     successfully activated a Masternode
 6.  If not, please contact support at
     <https://discordapp.com/invite/Q8tsgCw> for further assistance
-
+7.  For added security we recommend that you encrypt your control wallet
+    (**Tools** -&gt; **Encrypt Wallet**). Just make sure to **never
+    forget your password** as you wouldn't be able to access your wallet
+    without it
